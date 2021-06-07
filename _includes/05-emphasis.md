@@ -1,7 +1,6 @@
-*This text will be italic*
-_This will also be italic_
+* *Hmm, Rait pe pairon se tere nishaan mere dil par*
+* _Logon ki lehron si hai baaton se mitenge kab-tak_
+* **Ho jaana tu riha mere, ho jaana tu riha mere**
+* __Na hona chahun main, na ho sakun kabhi__
 
-**This text will be bold**
-__This will also be bold__
 
-_You **can** combine them_
