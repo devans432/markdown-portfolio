@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+<li>high hopes</li>
+<li>riha</li>
+<li>carry on</li>
